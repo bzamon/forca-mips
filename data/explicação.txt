@@ -1,0 +1,1 @@
+É possível adicionar mais palavras ao jogo colocando as mesmas no dicionario.txt
